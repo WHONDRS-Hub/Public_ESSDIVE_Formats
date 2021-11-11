@@ -1,0 +1,2 @@
+col.in,col.out,Unit,Unit_Basis,Analysis_DetectionLimit,Analysis_Precision,Data_Status
+TN_after_correcting_for_dilution,Total_Nitrogen,milligrams_per_liter,as_Nitrogen,-9999,-9999,adjusted for dilutions

@@ -1,0 +1,7 @@
+Method_Name,Method_ID,Method_Type,Method_Description,Method_Instrument,Method_Lab
+Moisture_Typical,MOIS_T_IN_000,MethodID_Inspection,Vial was intact and filled to top with sediment.,NA,Pacific Northwest National Laboratory
+Moisture_Typical,MOIS_T_ST_000,MethodID_Storage,Stored at 4C until analysis.,NA,Pacific Northwest National Laboratory
+Moisture_Typical,MOIS_T_PRES_000,MethodID_Preservation,No preservatives added.,NA,Pacific Northwest National Laboratory
+Moisture_Typical,MOIS_T_PREP_000,MethodID_Preparation,No preparation.,NA,Pacific Northwest National Laboratory
+Moisture_Typical,MOIS_T_AN_000,MethodID_Analysis,Vial was weighed then dried in 105 degC oven for 48 hours or 24 hours. If 48 hours: drying was complete after 48 hours. If 24 hours: several vials from the same oven batch were weighed again after drying; placed in the oven again for 3 hours; then weighed again. If there was no significant change to mass then analysis of all vials in oven was complete. If the mass changed then vials were put in oven again for an additional 24h until there was no mass change.,NA,Pacific Northwest National Laboratory
+Moisture_Typical,MOIS_T_DP_000,MethodID_DataProcessing,Percent moisture was calculated based on the difference between wet and dry mass. then divided by the weight of the dry or wet mass and multiplied by 100.,NA,Pacific Northwest National Laboratory

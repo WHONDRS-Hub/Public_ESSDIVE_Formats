@@ -1,3 +1,0 @@
-col.in,col.out,Unit,Unit_Basis,Analysis_DetectionLimit,Analysis_Precision,Data_Status
-percent_water_content_dry,percent_water_content_per_dry_mass,percent,dry_mass,-9999,-9999,raw
-percent_water_content_wet,percent_water_content_per_wet_mass,percent,wet_mass,-9999,-9999,raw

@@ -1,0 +1,14 @@
+﻿Term,Definition,Term_Type
+BD,below detection limit,dataFlag
+OutCal,"measured concentration outside of calibration range, data accuracy questionable",dataFlag
+BV_NS,"broken vial, no sample to analyze",dataFlag
+BV_SIQ,"broken vial, sample integrity questionable, data not reliable",dataFlag
+BV_SIOK,"broken vial, sample integrity deemed intact, data should be reliable",dataFlag
+ND,"no data, no measurement performed",dataFlag
+FLAG_FRZ_001,Vials were frozen (-20 degC) prior to analysis. Freezing may affect data.,dataFlag
+LOD_x,limit of detection is different from rest of data set,dataFlag
+raw,"unprocessed data, no quality control",data_status
+final,"quality controlled data (e.g. inspected for outliers, missing data) in manuscript publishable format",data_status
+QAQC_undil_final,"quality controlled, accounting for all dilutions, data in manuscript publishable format",data_status
+MethodID_Inspection,code used for a method used to inspect sample integrity and specify reasons for potential sample compromise,Method_Type
+MethodID_Shipping,code used for specific conditions for shipping of sample(s),Method_Type

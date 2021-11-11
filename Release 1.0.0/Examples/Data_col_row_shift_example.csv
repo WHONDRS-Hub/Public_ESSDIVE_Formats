@@ -1,0 +1,14 @@
+﻿#Columns,6,,,,,
+#Header_Rows,5,,,,,
+Column_Name,Sample_Name,Material,imidacloprid,MethodID_Analysis_imidacloprid,Analysis_Detection_Limit_imidacloprid,Notes_imidacloprid
+Unit,N/A,N/A,microgram_per_liter,N/A,N/A,N/A
+Unit_Basis,N/A,N/A,molecular_weight,N/A,N/A,N/A
+Analysis_Precision,-9999,-9999,-9999,-9999,-9999,-9999
+Data_Status,N/A,N/A,QAQC_final,N/A,N/A,N/A
+#Start_Data,M42_2007,liquid environmental material: liquid water: surface water,0.16,OMK57,0.08,N/A
+N/A,M42_2008,liquid environmental material: liquid water: surface water,-9999,OMK57,0.2,Below detection limit
+N/A,M42_2009,liquid environmental material: liquid water: surface water,0.13,OMK59,0.003,Methodology and detection limit change
+N/A,M42_2010,liquid environmental material: liquid water: surface water,0.09,OMK59,0.003,N/A
+N/A,M42_2011,liquid environmental material: liquid water: surface water,0.18,OMK59,0.001,N/A
+N/A,M42_2012,liquid environmental material: liquid water: surface water,0.14,OMK59,0.002,N/A
+#End_Data,,,,,,

@@ -1,0 +1,17 @@
+﻿Term,Unit,Definition,Column_or_Row_Long_Name,Data_Type,Term_Type
+Column_Name,N/A,header for row of column names,N/A,text,Row_header
+Sample_Name,N/A,header for column with sample names,N/A,text,Column_header
+imidacloprid,micrograms_per_liter,concentration of imidacloprid,N/A,numerical,Column_header
+units,N/A,header for row with units,N/A,text,Row_header
+MethodID_Analysis,N/A,code for the analysis method used,N/A,text,Row_header
+imidacloprid_Notes,N/A,notes specific to imidacloprid values,N/A,text,Column_header
+BD,N/A,below detection limit,N/A,text,dataFlag
+BV_SIQ,N/A,"broken vial, sample integrity questionable, data not reliable",N/A,text,dataFlag
+BV_SIOK,N/A,"broken vial, sample integrity deemed intact, data should be reliable",N/A,text,dataFlag
+ND,N/A,"no data, no measurement performed",N/A,text,dataFlag
+FLAG_FRZ_001,N/A,Vials were frozen (-20 degC) prior to analysis. Freezing may affect data.,N/A,text,dataFlag
+LOD_x,N/A,limit of detection is different from rest of data set,N/A,text,dataFlag
+raw,N/A,"unprocessed data, no quality control",N/A,text,data_status
+QAQC_undil_final,N/A,"quality controlled, accounting for all dilutions, data in manuscript publishable format",N/A,text,data_status
+MethodID_Inspection,N/A,code used for a method used to inspect sample integrity and specify reasons for potential sample compromise,N/A,text,Method_Type
+MethodID_Shipping,N/A,code used for specific conditions for shipping of sample(s),N/A,text,Method_Type
